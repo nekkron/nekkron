@@ -3,11 +3,7 @@
 -->
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
-- 🤔 I’m looking for help with improving my PowerShell scripts to be more efficienct and cleaner.
 - 📫 Social: https://infosec.exchange/@nekkron
-- ⚡ Fun fact: ...
 - 🕸️ https://nekkron.site/
 
-[![Buy Me A Coffee](https://github.com/nekkron/nekkron.github.io/blob/a049f8e38a61ebd3c51bf805b8593ee20e34f01b/images/bmc-logo.svg)](https://www.buymeacoffee.com/nekkron)
+I frequently get thirsty, please [![Buy Me A Coffee](https://github.com/nekkron/nekkron.github.io/blob/a049f8e38a61ebd3c51bf805b8593ee20e34f01b/images/bmc-logo.svg)](https://www.buymeacoffee.com/nekkron)
